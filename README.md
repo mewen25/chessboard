@@ -1,2 +1,0 @@
-# chessboard
-Created with CodeSandbox

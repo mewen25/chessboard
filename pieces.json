@@ -1,0 +1,31 @@
+{
+  "pieces": {
+    "White": {
+      "Pawn": "Pawn.png",
+      "Knight": "Knight.png",
+      "Bishop": "Bishop.png",
+      "Rook": "Rook.png",
+      "King": "King.png",
+      "Queen": "Queen.png"
+    },
+    "Black": {
+      "Pawn": "Pawn1.png",
+      "Knight": "Knight1.png",
+      "Bishop": "Bishop1.png",
+      "Rook": "Rook1.png",
+      "King": "King1.png",
+      "Queen": "Queen1.png"
+    },
+    "Names": [
+      "Rook",
+      "Knight",
+      "Bishop",
+      "Queen",
+      "King",
+      "Bishop",
+      "Knight",
+      "Rook",
+      "Pawn"
+    ]
+  }
+}

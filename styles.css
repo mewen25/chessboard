@@ -1,0 +1,12 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(201, 200, 200);
+}
+/* Styles the canvas */
+canvas {
+  display: block;
+  margin: 2%;
+  margin-left: 10%;
+}
